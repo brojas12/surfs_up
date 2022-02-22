@@ -17,6 +17,8 @@
     
 ![](Resources/June_Weather.png)
 
+
+
 ![](Resources/Dec_Weather.png)
 
 
