@@ -14,12 +14,8 @@
     
     •There is noticeable difference between the temperature count of June (1700) and December(1517). 
     
-    
 ![](Resources/June_Weather.png)
-
-
-
-![](Resources/Dec_Weather.png)
+![](Resources/Dec_Weather.PNG)
 
 
 **#Summary:**
